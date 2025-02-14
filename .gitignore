@@ -4,3 +4,10 @@ node_modules/
 # Package-lock and Yarn lock
 package-lock.json
 yarn.lock
+
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
